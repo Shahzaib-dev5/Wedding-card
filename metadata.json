@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Invitation - Mehndi & Barat",
+  "description": "An elegant floral wedding invitation from the bride's side featuring Mehndi & Barat ceremony celebrations, live countdown timer, interactive RSVP form, engagement photo gallery, and travel directions map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
